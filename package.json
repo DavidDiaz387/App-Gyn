@@ -1,0 +1,22 @@
+{
+  "name": "appelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "promise-mysql": "^5.0.2",
+    "sequelize": "^6.4.0",
+    "sequelize-cli": "^6.2.0"
+  }
+}
